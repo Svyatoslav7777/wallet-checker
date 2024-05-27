@@ -54,7 +54,8 @@ let columns = [
 
 let contracts = [
     {
-        address: '0xf2DAd89f2788a8CD54625C60b55cD3d2D0ACa7Cb',
+        address: '0x1ECF2fCdc8915E4BE4D7a16012b609d298849e3d
+            ',
         name: 'syncswap',
         url: 'https://syncswap.xyz/'
     },
